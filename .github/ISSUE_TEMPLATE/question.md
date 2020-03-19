@@ -1,13 +1,13 @@
 ---
-name: Question
-about: Please file a separate report for each question
-title: Please add a brief but descriptive title
-labels: question
+name: Da_Ghost
+about: Fabritone Aristois
+title: Fabritone Schematics
+
 assignees: ''
 ---
 
 ## What do you need help with?
-With as much detail as possible, describe your question and what you may need help with.
+Hi I recently downloaded the Aristois hacked client and saw that you were one of the developers of "Fabritone". One issue I am having is how I am supposed to use the Schematics feature. I can't find any current version of the mod or a tutorial. Please help.
 
 ## Final checklist
 - [x] I know how to properly use check boxes 
